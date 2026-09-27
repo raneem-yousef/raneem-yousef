@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Raneem 👋
 
-<!--
-**raneem-yousef/raneem-yousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | Developer & Designer**
 
-Here are some ideas to get you started:
+I enjoy building things with code and turning ideas into simple, functional, and thoughtful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+
+**Development**
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Java
+* Python
+
+**Design**
+
+* Canva
+
+### Currently
+
+Learning, building, and exploring new ideas through personal projects.
